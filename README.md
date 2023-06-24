@@ -28,16 +28,16 @@ The game allows players to deposit money, place bets on a configurable number of
    git clone https://github.com/your-username/slot-machine-game.git
 
 1. Navigate to the project directory:
-    ```shell
-cd slot-machine-game
+   ```shell
+   cd slot-machine-game
 
 2. Install the dependencies:
-```shell
-npm install
+   ```shell
+   npm install
 
 3. Run the game:
-```shell
-node index.js
+   ```shell
+   node index.js
 
 ## Customization
 The game can be customized by adjusting the following parameters in the index.js file:
