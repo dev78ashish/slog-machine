@@ -42,8 +42,9 @@ The game allows players to deposit money, place bets on a configurable number of
 ## Customization
 The game can be customized by adjusting the following parameters in the index.js file:
 
-symbols_count: Define the count of symbols (A, B, C, D) available in the game.
-symbol_values: Assign values to the symbols (A, B, C, D).
-ROWS: Specify the number of rows in the slot machine.
-COLS: Specify the number of columns in the slot machine.
-Feel free to modify these parameters to create your own variations of the game.
++ symbols_count: Define the count of symbols (A, B, C, D) available in the game.
++ symbol_values: Assign values to the symbols (A, B, C, D).
++ ROWS: Specify the number of rows in the slot machine.
++ COLS: Specify the number of columns in the slot machine.
+
+### Feel free to modify these parameters to create your own variations of the game.
